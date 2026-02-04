@@ -1,6 +1,11 @@
 # GlukozTakip
 
 A native macOS app developed with **SwiftUI** and **CoreData** to track blood glucose and insulin levels.
+
+## 📦 Download
+
+➡️ [Download latest macOS release](../../releases/latest)
+
 ## 📸 Screenshots
 
 ### Main Screen

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="24512" systemVersion="25C56" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithCloudKit="YES" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="Entry">
+    <entity name="Entry" representedClassName=".Entry" syncable="YES" codeGenerationType="class">
+        <attribute name="basalDose" attributeType="Double" defaultValueString="0" usesScalarValueType="NO"/>
+        <attribute name="bolusDose" attributeType="Double" defaultValueString="0" usesScalarValueType="NO"/>
+        <attribute name="category" attributeType="String" defaultValueString="&quot; &quot;"/>
+        <attribute name="glucose" attributeType="Double" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="id" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="notes" optional="YES" attributeType="String"/>
+        <attribute name="timestamp" attributeType="Date" defaultDateTimeInterval="791659320" usesScalarValueType="NO"/>
+    </entity>
+</model>

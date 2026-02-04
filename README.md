@@ -16,7 +16,9 @@ A native macOS app developed with **SwiftUI** and **CoreData** to track blood gl
 <img src="Screenshots/report.png" width="700" />
 
 ### Settings
-<img src="Screenshots/setting.png" width="700" />## 🛠 Features
+<img src="Screenshots/setting.png" width="700" />
+
+## 🛠 Features
 - Record glucose measurements
 - Log insulin doses
 - View history with intuitive UI
